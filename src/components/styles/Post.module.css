@@ -1,0 +1,16 @@
+.post {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid teal;
+    box-shadow: 0 -1px 8px 0 rgb(0 128 128 / 55%);
+}
+.heading {
+    color: teal;
+}
+.para {
+    font-size: 14px;
+    font-weight: bold;
+}

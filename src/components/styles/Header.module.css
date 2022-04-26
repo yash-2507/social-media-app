@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #49a6ba;
+    padding: 20px;
+    border-radius: 10px;
+}
+.button {
+    height: 30px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    background: rgb(255,165,0);
+    cursor: pointer;
+}

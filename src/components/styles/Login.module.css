@@ -1,0 +1,33 @@
+.parent {
+    height: 300px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    background: rgb(54,187,138);
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+.form {
+    display: flex;
+    gap: 10px;
+}
+.input {
+    border: none;
+    height: 35px;
+    width: 200px;
+    border-radius: 10px;
+    padding-left: 10px;
+    box-shadow: 5px 5px 3px rgb(18, 65, 48);
+    font-weight: bold;
+}
+.button {
+    height: 38px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 5px 3px rgb(18, 65, 48);
+    font-weight: bold;
+    cursor: pointer;
+}
