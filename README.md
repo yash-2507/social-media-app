@@ -1,6 +1,6 @@
 # social-media-app
 
-This is my mini Socail Media app with React.JS.
+This is my mini Social Media app with React.JS.
 
 Further changes to be done: 
 1. Add delete button for each post 
